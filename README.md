@@ -62,10 +62,10 @@ Unlike traditional mutual skill-exchange platforms, SkillSwap does not require t
 
 | Component | Technology |
 |---|---|
-| Frontend | [Add your frontend technology] |
-| Backend | [Add your backend technology] |
-| Database | [Add your database] |
-| Deployment | [Add your hosting platform] |
+| Frontend | [Figma] |
+| Backend | [Google Sheets, Looker Studio] |
+| Database |[Google Excel] |
+| Deployment | [GitHub] |
 | Data Analysis | Microsoft Excel |
 | Data Visualization | Flourish |
 | AI Analysis | Generative AI |
@@ -100,7 +100,7 @@ The analysis focuses on:
 
 ### Flourish Dashboard
 
-[Insert your Flourish visualization link here]
+[https://public.flourish.studio/story/3856523/]
 
 ---
 
@@ -122,10 +122,7 @@ The analysis focuses on:
 
 ## 🌐 Live Project
 
-**Live Website:** [Insert your deployed website link]
-
-**GitHub Repository:** [Insert your repository link]
-
+**Live Website:** [https://skillswap-uoh-campus.spicy-gnome-6144.chatgpt.site/login]
 ---
 
 ## 🚀 How to Use
@@ -142,13 +139,13 @@ The analysis focuses on:
 
 ## 👥 Team Members & Contributions
 
-| Team Member | Contribution |
+| Team Member | Roll Number |
 |---|---|
-| Member 1 | Dataset collection, data cleaning, Excel analysis and visualization preparation |
-| Member 2 | [Add contribution] |
-| Member 3 | [Add contribution] |
-| Member 4 | [Add contribution] |
-| Member 5 | [Add contribution] |
+| Member 1 | .[25MCCE36] |
+| Member 2 | [25MCCE31] |
+| Member 3 | [25MCCE24] |
+| Member 4 | [25ETIM59] |
+| Member 5 | [25ETIM41] |
 
 ---
 
