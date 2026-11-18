@@ -108,7 +108,8 @@ The analysis focuses on:
 
 ### 1. Homepage
 <!-- Add your homepage screenshot here -->
-![SkillSwap Homepage](screenshots/homepage.png)
+![SkillSwap Homepage](<img width="1861" height="486" alt="image" src="https://github.com/user-attachments/assets/ba319835-3c4f-4c28-9421-0088050cd30a" />
+)
 
 ### 2. Skill Discovery
 <!-- Add your skill listing screenshot here -->
