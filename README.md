@@ -123,8 +123,9 @@ The analysis focuses on:
 ## 🌐 Live Project
 
 **Live Website:** [https://skillswap-uoh-campus.spicy-gnome-6144.chatgpt.site/login]
-**APK QR:** [<img width="266" height="278" alt="image" src="https://github.com/user-attachments/assets/243cc2aa-1a4d-4504-965f-f309c12b13ea" />
-]
+**APK QR:
+<img width="187" height="165" alt="image" src="https://github.com/user-attachments/assets/df1117ad-a508-432d-a053-d4e03ad64910" />
+
 ---
 
 ## 🚀 How to Use
