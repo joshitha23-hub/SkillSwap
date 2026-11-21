@@ -64,15 +64,10 @@ SkillSwap lets students **list skills they can teach and want to learn**. Tutors
 
 | Login | Profile and suggested match | My sessions | Insights (Flourish) |
 |:---:|:---:|:---:|:---:|
-| <img width="275" height="600" alt="image" src="https://github.com/user-attachments/assets/2dba372d-d73b-46c6-a5ec-5ca3d3d71cd8" />
- | <img width="270" height="593" alt="image" src="https://github.com/user-attachments/assets/fa88bc57-1735-4a77-a0fd-7d9c98e9450d" />
- | <img width="270" height="595" alt="image" src="https://github.com/user-attachments/assets/cdf438a0-205d-4ef8-993f-ae20fa904b74" />
- |<img width="262" height="597" alt="image" src="https://github.com/user-attachments/assets/8a1ec090-8199-4248-888d-32fa6c3befa9" />
- |
+| <img width="275" height="600" alt="image" src="https://github.com/user-attachments/assets/2dba372d-d73b-46c6-a5ec-5ca3d3d71cd8" /> | <img width="270" height="593" alt="image" src="https://github.com/user-attachments/assets/fa88bc57-1735-4a77-a0fd-7d9c98e9450d" />| <img width="270" height="595" alt="image" src="https://github.com/user-attachments/assets/cdf438a0-205d-4ef8-993f-ae20fa904b74" />|<img width="262" height="597" alt="image" src="https://github.com/user-attachments/assets/8a1ec090-8199-4248-888d-32fa6c3befa9" />|
 | Sign in with a university email and a nickname | Skills to teach and learn, credits, suggested match | Booked and open sessions, as tutor or learner | Offers vs requests by category |
 
----:|:---:|:---:|:---:|
-| ![Home](docs/screenshots/home.png) | ![Search](docs/screenshots/search.png) | ![Booking](docs/screenshots/booking.png) | ![Sessions](docs/screenshots/sessions.png) |
+
 
 
 ---
