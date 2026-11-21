@@ -6,10 +6,7 @@
 
 A peer-to-peer skill exchange app for University of Hyderabad students.
 
-![Course](https://img.shields.io/badge/Course-IE209%20Skill%20Development-1F4D3A)
-![Semester](https://img.shields.io/badge/Semester-III-A9BFA0)
-![Backend](https://img.shields.io/badge/Backend-Google%20Sheets%20%2B%20Apps%20Script-2E6B50)
-![Status](https://img.shields.io/badge/Status-Mini--project%20MVP-F2B544)
+
 
 </div>
 
@@ -20,14 +17,13 @@ A peer-to-peer skill exchange app for University of Hyderabad students.
 | | |
 |---|---|
 | 📱 **Download the APK** | [Download SkillSwap APK (Google Drive)](https://drive.google.com/file/d/1KI6j9X1L5a5VaoKnYEidP_JKIVD-lRLX/view?usp=drivesdk) |
-| 📊 **Flourish dashboard** | [ADD FLOURISH STORY LINK] |
-| 📄 **Privacy & Safety Policy** | [`docs/SkillSwap_Privacy_and_Safety_Policy.pdf`](docs/SkillSwap_Privacy_and_Safety_Policy.pdf) |
-| 🖼 **A3 poster** | [`docs/SkillSwap_A3_Poster.pdf`](docs/SkillSwap_A3_Poster.pdf) |
+| 📊 **Flourish dashboard** | [https://public.flourish.studio/story/3856523/] |
 
 > **Try it on your Android phone:** scan the QR code to download the APK, or [use this link](https://drive.google.com/file/d/1KI6j9X1L5a5VaoKnYEidP_JKIVD-lRLX/view?usp=drivesdk). You may need to allow installs from this source.
 
 <div align="center">
-<img src="docs/screenshots/qr.png" alt="QR code to download the SkillSwap APK" width="170"/>
+<img width="392" height="475" alt="image" src="https://github.com/user-attachments/assets/cd48ba00-f736-40f6-8a9b-374af98e2cdd" />
+
 </div>
 
 ---
@@ -68,17 +64,16 @@ SkillSwap lets students **list skills they can teach and want to learn**. Tutors
 
 | Login | Profile and suggested match | My sessions | Insights (Flourish) |
 |:---:|:---:|:---:|:---:|
-| <img src="docs/screenshots/login.png" alt="Login screen" width="200"/> | <img src="docs/screenshots/profile.png" alt="Profile screen" width="200"/> | <img src="docs/screenshots/sessions.png" alt="Sessions screen" width="200"/> | <img src="docs/screenshots/insights.png" alt="Insights dashboard" width="200"/> |
+| <img width="275" height="600" alt="image" src="https://github.com/user-attachments/assets/2dba372d-d73b-46c6-a5ec-5ca3d3d71cd8" />
+ | <img width="270" height="593" alt="image" src="https://github.com/user-attachments/assets/fa88bc57-1735-4a77-a0fd-7d9c98e9450d" />
+ | <img width="270" height="595" alt="image" src="https://github.com/user-attachments/assets/cdf438a0-205d-4ef8-993f-ae20fa904b74" />
+ |<img width="262" height="597" alt="image" src="https://github.com/user-attachments/assets/8a1ec090-8199-4248-888d-32fa6c3befa9" />
+ |
 | Sign in with a university email and a nickname | Skills to teach and learn, credits, suggested match | Booked and open sessions, as tutor or learner | Offers vs requests by category |
 
 ---:|:---:|:---:|:---:|
 | ![Home](docs/screenshots/home.png) | ![Search](docs/screenshots/search.png) | ![Booking](docs/screenshots/booking.png) | ![Sessions](docs/screenshots/sessions.png) |
 
-| Flourish dashboard |
-|:---:|
-| ![Dashboard](docs/screenshots/dashboard.png) |
-
-> Replace the images above with real screenshots of the running app (3 to 5 is enough).
 
 ---
 
@@ -148,10 +143,9 @@ Every request is `…/exec?key=<KEY>&action=<action>&…`. Every reply is `{ "ac
 |---|---|
 | Design | Figma |
 | Front end | MIT App Inventor (Android APK) |
-| Backend | Google Apps Script web app |
+| Backend | Google Apps Scripts |
 | Database | Google Sheets (Users, Slots, Ledger, Ratings) |
-| Concurrency | Apps Script `LockService` |
-| Dashboard | Flourish (story with 3 layouts) and Looker Studio |
+| Dashboard | Flourish (story with 3 layouts) and Looker Studio and Google sites |
 
 ---
 
@@ -206,19 +200,11 @@ Read the full one-page policy: [`docs/SkillSwap_Privacy_and_Safety_Policy.pdf`](
 
 ---
 
-## 📊 Pilot
 
-| Real users | Sessions confirmed by both sides | Average rating |
-|:---:|:---:|:---:|
-| `[__]` | `[__]` | `[__]` |
-
-Feedback summary: `[ADD 2 to 3 LINES FROM YOUR FEEDBACK FORM]`
-
----
 
 ## 🧑‍💻 Team
 
-**Team name:** `[ADD TEAM NAME]`  ·  **Faculty guide / TA:** `[ADD NAME]`
+**Team name:** `[ADD TEAM NAME]`  ·  **Faculty guide / TA:** `[Rupali Kurhade]`
 
 | Role | Member | Roll number | Responsibility |
 |---|---|---|---|
@@ -226,16 +212,9 @@ Feedback summary: `[ADD 2 to 3 LINES FROM YOUR FEEDBACK FORM]`
 | **R2** UI/UX Designer | Aryan Thakur | 25MCCE24 | Figma screens, colours, accessibility, app icon |
 | **R3** App Developer | Prathipati Joshitha | 25MCCE31 | App blocks logic, search, booking, confirmations, APK builds |
 | **R4** Backend and Data Engineer | Amit Kumar | 25ETIM42 | Google Sheet, Apps Script API, safe credit transfer, dashboard data |
-| **R5** QA, Integration and Outreach | Aman Singh | 25ETIM59 | Test plan, bug list, user testing, pilot, demo video |
+| **R5** QA, Integration and Outreach and google sites | Aman Singh | 25ETIM59 | Test plan, bug list, user testing, pilot, demo video |
 
----|---|---|
-| Prathipati Joshitha | 25MCCE31 | `[ADD ROLE]` |
-| Taif Al Ghazali | 25MCCE36 | `[ADD ROLE]` |
-| Amit Kumar | 25ETIM42 | `[ADD ROLE]` |
-| Aman Singh | 25ETIM59 | `[ADD ROLE]` |
-| `[5th member, if any]` | `[ROLL NO.]` | `[ADD ROLE]` |
 
-Roles used in the course brief: Team Lead and Product Owner, UI/UX Designer, App Developer, Backend and Data Engineer, QA, Integration and Outreach.
 
 ---
 
@@ -244,24 +223,8 @@ Roles used in the course brief: Team Lead and Product Owner, UI/UX Designer, App
 - Sessions are arranged in person or online outside the app; there are no in-app video calls.
 - No money, exam help or assignment help, by design.
 - Security is basic (shared key only). A future version could add proper sign-in and per-user access checks.
-- `[ADD ANY OTHER KNOWN LIMITATIONS OR NEXT STEPS]`
 
-## 📁 Repository structure
 
-```
-SkillSwap/
-├── README.md
-├── backend/
-│   └── Code.gs                  # Apps Script (remove your real KEY before committing)
-├── app/
-│   └── SkillSwap_Final.aia      # App Inventor project
-├── docs/
-│   ├── SkillSwap_Privacy_and_Safety_Policy.pdf
-│   ├── SkillSwap_A3_Poster.pdf
-│   └── screenshots/             # login.png, profile.png, sessions.png, insights.png, qr.png
-└── data/
-    └── sample_seed_data.csv     # optional: seed users and slots (no real personal data)
-```
 
 ## 🙏 Acknowledgements
 
